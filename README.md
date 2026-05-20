@@ -1,4 +1,4 @@
-## ASCII Aquarium
+## Meet the ASCII Aquarium ><(((°> 
 <table>
   <tr>
     <td width="45%" valign="top">
@@ -34,6 +34,8 @@ food when you tap the glass.
   </tr>
 </table>
 
+## GIFs of the ASCII AQUARIUM in Action }>{{{{• >
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -51,7 +53,7 @@ food when you tap the glass.
   </tr>
 </table>
 
-## ASCII Aquarium Web Flasher
+## ASCII Aquarium Web Flasher >)))'>
 
 The easiest way to install ASCII Aquarium
  is with the browser flasher:
@@ -67,7 +69,7 @@ You will need:
 Open the flasher page, click **Flash ASCII Aquarium**, choose the CYD serial
 port, and let the installer finish.
 
-## Supported Hardware
+## Supported Hardware ><(((º>
 
 This firmware is built for the [ESP32-2432S028R "Cheap Yellow Display" board](https://www.aliexpress.com/item/1005004971720824.html):
 
@@ -81,11 +83,11 @@ This firmware is built for the [ESP32-2432S028R "Cheap Yellow Display" board](ht
 Other CYD-style boards may look similar but use different display, touch, or SD
 hardware.
 
-## 3D Printed 2.8" CYD Cases
+## 3D Printed 2.8" CYD Cases ><((((>`
 - Basic snapfit case by PowerPill.Prints
 - [CYD Desk Buddy by annaglyph](https://makerworld.com/en/models/2787810) 
 
-## Features
+## Features >(°)>
 
 - Animated ASCII fish with multiple glyph species, varied colors, depth shading,
   smooth wraparound, schooling, wandering, and separation behavior.
@@ -105,7 +107,7 @@ hardware.
 - SD-card BMP screenshots and frame sequence capture.
 - Hidden HUD controls for setup, capture, Wi-Fi, settings, quick creature tests, respawn, and randomize.
 
-## Basic Controls
+## Basic Controls ><((((*>
 
 <table>
   <tr>
@@ -127,7 +129,7 @@ hardware.
   </tr>
 </table>
 
-## Build From Source
+## Build From Source ><>
 
 The main Arduino sketch lives here:
 
@@ -154,7 +156,7 @@ For browser flashing releases, use Arduino IDE's **Export Compiled Binary** and
 publish the generated merged firmware binary.
 
 
-## Project Notes
+## Project Notes >°>
 
 ASCII Aquarium CYD is part clock, part screensaver, part tiny art object, and
 part excuse to make fish-shaped punctuation swim around like it has somewhere
