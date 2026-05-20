@@ -89,6 +89,28 @@ hardware.
   respawn, and randomize.
 - Double-buffered sprite rendering for smoother animation.
 
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h1>Basic Controls</h1>
+      <p>
+        - Tap the tank to drop food.
+- Tap the top-left corner to reveal the hidden HUD.
+- Use the settings panel to tune fish, bubbles, visitors, seaweed, clock, and
+  backgrounds.
+- Use the Wi-Fi panel to connect to a network and sync internet time.
+- Use the capture panel or BOOT button to save BMP screenshots to SD.
+      </p>
+    </td>
+    <td width="42%" valign="top">
+      <img
+        src="[https://github.com/user-attachments/assets/34200303-25c9-45c5-a6eb-1e53a6c267d7](https://github.com/user-attachments/assets/3a448574-69ee-40fb-a141-50961f769b09)"
+        alt="ASCII Aquarium Settings"
+        width="100%">
+    </td>
+  </tr>
+</table>
+
 ## Basic Controls
 
 - Tap the tank to drop food.
