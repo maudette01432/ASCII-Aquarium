@@ -21,13 +21,11 @@
     <td width="42%" valign="top">
       <img
         src="https://github.com/user-attachments/assets/34200303-25c9-45c5-a6eb-1e53a6c267d7"
-        alt="ASCII Aquarium running on a CYD display"
+        alt="ASCII Aquarium Title Screen"
         width="100%">
     </td>
   </tr>
 </table>
-
-A tiny animated ASCII fish tank for the ESP32-2432S028R "Cheap Yellow Display".
 
 ASCII Aquarium turns the common 320x240 CYD touchscreen into a living little
 desktop aquarium with swimming ASCII fish, rising bubbles, swaying seaweed,
@@ -37,13 +35,6 @@ Wi-Fi time sync, persistent settings, and SD-card screenshot capture.
 It is not a video loop. The aquarium is rendered live on the ESP32, with fish
 that wander, school, turn around, change brightness, avoid each other, and chase
 food when you tap the glass.
-
-<td width="42%" valign="top">
-      <img
-        src="https://github.com/user-attachments/assets/34200303-25c9-45c5-a6eb-1e53a6c267d7"
-        alt="ASCII Aquarium Title Screen Render"
-        width="100%">
-    </td>
 
 ## Web Flasher
 
