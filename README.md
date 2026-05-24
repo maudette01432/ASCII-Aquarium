@@ -34,6 +34,8 @@ food when you tap the glass.
   </tr>
 </table>
 
+Check out the article on Hackaday! https://hackaday.com/2026/05/24/adorable-ascii-aquarium-lives-on-your-desk
+
 ## GIFs of the ASCII AQUARIUM in Action }>{{{{• >
 
 <table>
