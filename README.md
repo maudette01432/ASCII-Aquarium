@@ -135,8 +135,8 @@ Other CYD-style boards may look similar but use different display, touch, or SD 
     </td>
     <td width="50%" valign="top">
       <img
-        src="https://github.com/POWER-PILL/ASCII-Aquarium/blob/e33922a080bef4816fc36799a1c52ee5d383b4de/docs/assets/Screenshots_2.20.gif"
-        alt="ASCII Aquarium v2.20 Settings"
+        src="https://github.com/POWER-PILL/ASCII-Aquarium/blob/fe5dc41de7c68a7fbf722d747460eb820b5203f7/docs/assets/Auto_Feeding_SEQ_v2.20.GIF"
+        alt="ASCII Aquarium v2.20 Auto-Feeding"
         width="100%">
     </td>
   </tr>
