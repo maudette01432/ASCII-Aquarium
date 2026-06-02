@@ -71,8 +71,7 @@ You will need:
 Open the flasher page, click **Flash ASCII Aquarium**, choose the CYD serial
 port, and let the installer finish.
 
-## Supported Hardware ><(((º>
-
+## Supported Hardware: CYD, CYD2USB & JC3248w535
 This firmware is built for the [ESP32-2432S028R "Cheap Yellow Display" board](https://www.aliexpress.com/item/1005004971720824.html):
 
 [https://www.aliexpress.com/item/1005004971720824.html](https://www.aliexpress.com/item/1005004971720824.html)
@@ -84,6 +83,12 @@ This firmware is built for the [ESP32-2432S028R "Cheap Yellow Display" board](ht
 - Optional SD card support for BMP screenshots and frame capture
 
 Other CYD-style boards may look similar but use different display, touch, or SD hardware.
+
+**Support has now been added for the CYD2USB variant of the board courtesy of @mjpcomp**
+
+Also, we have preliminary support for the much nicer [JC3248w535 board](https://www.aliexpress.com/item/1005007566332450.html)! 
+
+**[Use the web flasher to flash either of these new firmwares to your board!](https://power-pill.github.io/ASCII-Aquarium/)**
 
 ## 3D Printed 2.8" CYD Cases ><((((>`
 - [Basic Snap-fit case by PowerPill.Prints](https://makerworld.com/en/models/2835243)
